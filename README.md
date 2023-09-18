@@ -16,6 +16,6 @@ Este projeto foi desenvolvido como parte da primeira semana do challenge BI 3ª 
 
 Para acessar o projeto, você pode visitar este [repositório](). Mais informações sobre o challenge BI 3ª edição da Alura podem ser encontradas [aqui](https://www.alura.com.br/challenges/bi-3?host=https://cursos.alura.com.br). 
 
-![Projeto01](C:\Users\SUP-03\Desktop\Projetos-BI-main\Projeto 01 - Análise da campanha de Marketing\Identidade visual\Power Bi.gif)
+[Projeto01](https://raw.githubusercontent.com/carlos1818augusto/Projeto-de-Campanha-de-Bloco-de-Codigo/main/Projeto%2001%20-%20An%C3%A1lise%20da%20campanha%20de%20Marketing/Identidade%20visual/Power%20Bi.gif)
 
 > Status do Projeto: Em desenvolvimento :warning:
